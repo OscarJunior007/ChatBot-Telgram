@@ -157,6 +157,7 @@ def ask_image(prompt:str):
         quality="standard",
         n=1,
     )
+
     return response.data[0].url
 
 bot.set_my_commands([
