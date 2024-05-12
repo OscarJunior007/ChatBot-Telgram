@@ -164,7 +164,9 @@ bot.set_my_commands([
     telebot.types.BotCommand("/generar_imagen", "Genera imagenes apartir de texto"),
     telebot.types.BotCommand("/generar_audio", "Responde tus preguntas con un audio"),
     telebot.types.BotCommand("/descargar_youtube", "Descargo Audios"),
-    telebot.types.BotCommand("/resumen_youtube", "Hago resumen de videos que me envies")
+    telebot.types.BotCommand("/resumen_youtube", "Hago resumenes de videos que me envies")
 ])
+
+
 
 bot.infinity_polling()
