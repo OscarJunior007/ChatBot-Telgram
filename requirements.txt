@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+openai
+ffmpeg
+AudioConverter
+dotenv
+pyaudio
+pytube
