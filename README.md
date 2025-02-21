@@ -1,4 +1,7 @@
+# Les comparto mi primer proyecto para una feria tecnológica que hubo en mi universidad, estaba en mis inicios de aprendizaje en python.
+
 # ChatBot de Telegram con OpenAI
+
 
 Este es un chatbot de Telegram que utiliza la API de OpenAI para generar respuestas inteligentes a los mensajes de los usuarios. Está desarrollado en Python
 
@@ -42,12 +45,13 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 ## Configuración
 
-Crea un archivo `.env` en la raíz del proyecto y añade las siguientes variables:
+Crea un archivo `.env` (para mayor seguridad) en la raíz del proyecto y añade las siguientes variables:
 
 ```env
 TELEGRAM_BOT_TOKEN=tu_token_de_telegram
 OPENAI_API_KEY=tu_clave_de_openai
 ```
+Crea un archivo `.gitignore`
 
 ## Uso
 
