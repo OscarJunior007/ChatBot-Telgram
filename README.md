@@ -1,6 +1,8 @@
 # ChatBot de Telegram con OpenAI
 
-Este es un chatbot de Telegram que utiliza la API de OpenAI para generar respuestas inteligentes a los mensajes de los usuarios. Está desarrollado en Python usando FastAPI.
+Este es un chatbot de Telegram que utiliza la API de OpenAI para generar respuestas inteligentes a los mensajes de los usuarios. Está desarrollado en Python
+
+
 EL API KEY ES UN EJEMPLO, YA NO FUNCIONA
 ## Características
 
